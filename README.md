@@ -1,1 +1,2 @@
-# Machine-Learning
+NIM : E1E122090
+NAMA :ARYA DWINATA MUSTAPA
